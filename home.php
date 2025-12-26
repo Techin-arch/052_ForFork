@@ -1,4 +1,4 @@
-<body bgcolor="#CC9900">
+<body bgcolor="#FFFFFF">
 	<table width="1238" height="530" border="0">
 		<tr>
 			<td width="23" rowspan="2">&nbsp;</td>
@@ -9,7 +9,7 @@
 			<td width="43" rowspan="2">&nbsp;</td>
 		</tr>
 		<tr>
-			<td width="1007" bgcolor="#FFFFFF">
+			<td width="1007" bgcolor="#F00000">
 				<p>
 					อพาร์ทเมนต์ หรู สภาพแวดล้อมดี ปลอดภัย บริการทั้งห้องพัก รายวัน รายเดือน
 					เหมาะสำหรับ <br> นักศึกษา ใกล้แหล่งชุมชน และ ห้างสรรพสินค้า BigC , Lotus
